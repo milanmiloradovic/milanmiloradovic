@@ -21,7 +21,7 @@
 
 I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia with 1+ year experience of working in the media production industry.
 
-:briefcase: I am currently working as a **Junior Software Engineer** at [TX Services](https://jobs.txservices.rs/). 
+:briefcase: I am currently working as a **Junior Software Engineer** at [TX Services](https://jobs.txservices.rs/) in Serbia. 
 
 :mortar_board: Education:
   - Bachelor's degree - Information Systems and Technology, Faculty of Organizational Sciences at University of Belgrade. (2017-2021)
@@ -71,7 +71,4 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 ## :fire: My Stats :
 
-<div>
-    <img align=top src="http://github-readme-streak-stats.herokuapp.com?user=milanmiloradovic&theme=onedark&border_radius=5&date_format=j%20M%5B%20Y%5D"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&show_icons=true&count_private=true&theme=onedark&border_radius=5"/>
-<div>
+<img align=top src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&show_icons=true&count_private=true&theme=onedark&border_radius=5"/>
