@@ -70,3 +70,10 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmiloradovic&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+
+## :bar_chart: Algorithmic Problem Solving
+
+<p align="center">
+<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/milanmiloradovic?theme=dark&font=Karma&ext=contest"/>
+</p>
