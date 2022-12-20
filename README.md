@@ -73,7 +73,7 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 </p>
 <img src="https://komarev.com/ghpvc/?username=milanmiloradovic&style=flat-square&color=blue" alt=""/>
 
-## :bar_chart: Algorithmic Problem Solving
+## :bar_chart: Algorithmic Problem Solving :
 
 <p align="left">
 <img height="200em" width="429em" src="https://leetcard.jacoblin.cool/milanmiloradovic?theme=dark&font=Karma&ext=contest"/>
