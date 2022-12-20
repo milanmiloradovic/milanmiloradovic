@@ -7,6 +7,8 @@
 
 <h2 align="left"> :man_technologist: About Me :</h2>
 
+<!-- <img align="right" alt="Coding" width="150" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"> -->
+
 I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia with 1+ year experience of working in the media production industry.
 
 :briefcase: I am currently working as a **Junior Software Engineer** at [TX Services](https://jobs.txservices.rs/) in Serbia. 
@@ -65,12 +67,11 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 ## :fire: My Stats :
 
-<img src="https://komarev.com/ghpvc/?username=milanmiloradovic&style=flat-square&color=blue" alt=""/>
 <p float="left">
 <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmiloradovic&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=milanmiloradovic&style=flat-square&color=blue" alt=""/>
 
 ## :bar_chart: Algorithmic Problem Solving
 
