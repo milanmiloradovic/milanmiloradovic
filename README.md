@@ -75,5 +75,5 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ## :bar_chart: Algorithmic Problem Solving
 
 <p align="center">
-<img height="320em" width="800em" src="https://leetcard.jacoblin.cool/milanmiloradovic?theme=dark&font=Karma&ext=contest"/>
+<img height="200em" width="429em" src="https://leetcard.jacoblin.cool/milanmiloradovic?theme=tokyonight&font=Karma&ext=contest"/>
 </p>
