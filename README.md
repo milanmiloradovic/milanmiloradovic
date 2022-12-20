@@ -1,23 +1,11 @@
 <div id="header" align="center">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/milan-miloradovic/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/milan.miloradovic/">
-      <img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=C13584"" alt="Instagram Badge"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100001431275545">
-      <img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=4267B2"" alt="Facebook Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=milanmiloradovic&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi, my name is Milan. Welcome to my GitHub profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-## :man_technologist: About Me :
+<h2 align="left"> :man_technologist: About Me :</h2>
 
 I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia with 1+ year experience of working in the media production industry.
 
@@ -30,6 +18,12 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 :mailbox: If you have any questions or if you want to connect with me, feel free to drop me an email at milan.miloradovic98@gmail.com.
 
+<h2 align="left">:inbox_tray: Connect with me :</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/milan-miloradovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/milan.miloradovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
+
+  
 ## :hammer_and_wrench: Languages and Tools :
 
 ### Programming languages :
@@ -71,4 +65,5 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 ## :fire: My Stats :
 
+<img src="https://komarev.com/ghpvc/?username=milanmiloradovic&style=flat-square&color=blue" alt=""/>
 <img align=top src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&show_icons=true&count_private=true&theme=onedark&border_radius=5"/>
