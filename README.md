@@ -68,8 +68,8 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ## :fire: My Stats :
 
 <p float="left">
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&theme=onedark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmiloradovic&theme=onedark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&show_icons=true&count_private=true&theme=onedark&border_radius=5" />
+<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmiloradovic&theme=onedark&show_icons=true&hide_border=true" />
 </p>
 <img src="https://komarev.com/ghpvc/?username=milanmiloradovic&style=flat-square&color=blue" alt=""/>
 
