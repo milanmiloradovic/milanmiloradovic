@@ -68,12 +68,12 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 ## :fire: My Stats :
 
 <p float="left">
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&show_icons=true&count_private=true&theme=onedark&border_radius=5" />
-<img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmiloradovic&theme=onedark&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmiloradovic&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/>
 </p>
 <img src="https://komarev.com/ghpvc/?username=milanmiloradovic&style=flat-square&color=blue" alt=""/>
 
-## :bar_chart: Algorithmic Problem Solving :
+## 📈: Competitive Programming :
 
 <p align="left">
 <img height="200em" width="429em" src="https://leetcard.jacoblin.cool/milanmiloradovic?theme=dark&font=Karma&ext=contest"/>
