@@ -20,11 +20,11 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 :mailbox: If you have any questions or if you want to connect with me, feel free to drop me an email at milan.miloradovic98@gmail.com.
 
-<h2 align="left">:inbox_tray: Connect with me :</h2>
+<h2 align="left">:inbox_tray: Connect with me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/milan-miloradovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://www.instagram.com/milan.miloradovic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/milan-miloradovic/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/milanmiloradovic) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/milan_miloradov1) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](milan.miloradovic98@gmail.com)
+:---:|:---:|:---:|:---:|
   
 ## :hammer_and_wrench: Languages and Tools :
 
