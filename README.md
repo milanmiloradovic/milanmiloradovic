@@ -16,6 +16,9 @@ I am a Junior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
   - Master's degree - E-business and System Management, Faculty of Organizational Sciences at University of Belgrade. (2021-2022)
   - [Research thesis](https://ebt.rs/journals/index.php/conf-proc/article/view/106) - Data streaming architecture based on Apache Kafka and GitHub for tracking students' activity in higher education software development courses.
 
+:2nd_place_medal: Honors & Awards:
+  - The award for ["Most creative and innovative team"](files/hackathon.jpeg) at the first TX Services hackathon.
+
 :pencil: Checkout my [Resume](files/milanmiloradovic.pdf).
 
 <h2 align="left">:inbox_tray: Connect with me : <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
