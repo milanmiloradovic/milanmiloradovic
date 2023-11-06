@@ -39,10 +39,5 @@ I am a Software Engineer from Serbia with 2+ years experience of working in the 
 <p float="left">
 <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=milanmiloradovic&theme=onedark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanmiloradovic&theme=onedark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-## Algorithmic and Problem Solving
-
-<p float="left">
 <img height="200em" width="420em" src="https://leetcode.card.workers.dev/milanmiloradovic?theme=dark&font=baloo&extension=null" /> 
 </p>
