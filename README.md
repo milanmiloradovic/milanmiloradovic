@@ -18,8 +18,10 @@ I am a Software Engineer from Serbia with 2+ years experience of working in the 
 :trophy: Honors & Awards:
   - The award for ["Most creative and innovative team"](files/hackathon.jpeg) at the first TX Services hackathon.
 
+<!--
 :pencil: Check out my [Resume](files/milanmiloradovic.pdf).
-  
+-->
+
 ## :hammer_and_wrench: Languages and Tools :
 
 ### Technologies :
@@ -34,8 +36,10 @@ I am a Software Engineer from Serbia with 2+ years experience of working in the 
 
 [![My Skills](https://skillicons.dev/icons?i=maven,gradle,git,docker,kubernetes)](https://skillicons.dev)
 
+<!--
 ## :chart_with_upwards_trend: My Stats :
 
 <p float="left">
 <img height="200em" width="420em" src="https://leetcode-stats-six.vercel.app/?username=grindneverstop&theme=dark" />
 </p>
+-->
