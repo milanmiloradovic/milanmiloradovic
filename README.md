@@ -38,7 +38,7 @@ I am a Software Engineer from Serbia with 2+ years experience of working in the 
 
 <!--
 ## :chart_with_upwards_trend: My Stats :
-
+https://github.com/JacobLinCool/leetcode-stats-card
 <p float="left">
 <img height="200em" width="420em" src="https://leetcode-stats-six.vercel.app/?username=grindneverstop&theme=dark" />
 </p>
