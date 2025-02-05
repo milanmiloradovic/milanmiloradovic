@@ -6,7 +6,7 @@
 
 <h2 align="left"> :man_technologist: About Me :</h2>
 
-I am a Software Engineer from Serbia with 2+ years experience of working in the media production industry.
+I am a Software Engineer from Serbia with over three years experience of working in the media production industry.
 
 :briefcase: I am currently working as a **Software Engineer** at [TX Services](https://jobs.txservices.rs/) in Serbia. 
 
