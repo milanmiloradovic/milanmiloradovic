@@ -6,9 +6,11 @@
 
 <h2 align="left"> :man_technologist: About Me :</h2>
 
-I am a Software Engineer from Serbia with over three years experience of working in the media production industry.
+I am a Software Engineer from Serbia with over three years of experience in software engineering.
 
-:briefcase: I am currently working as a **Software Engineer** at [TX Services](https://jobs.txservices.rs/) in Serbia. 
+<!--
+:briefcase: I am currently working as a **Software Engineer** at [TX Services](https://jobs.txservices.rs/) in Serbia.
+-->
 
 :mortar_board: Education:
   - Bachelor's degree - Information Systems and Technology, Faculty of Organizational Sciences at the University of Belgrade. (2017-2021)
@@ -36,10 +38,8 @@ I am a Software Engineer from Serbia with over three years experience of working
 
 [![My Skills](https://skillicons.dev/icons?i=maven,gradle,git,docker,kubernetes)](https://skillicons.dev)
 
-<!--
 ## :chart_with_upwards_trend: My Stats :
-https://github.com/JacobLinCool/leetcode-stats-card
+
 <p float="left">
-<img height="200em" width="420em" src="https://leetcode-stats-six.vercel.app/?username=grindneverstop&theme=dark" />
+<img height="200em" width="420em" src="https://leetcard.jacoblin.cool/grindneverstop?ext=heatmap" />
 </p>
--->
