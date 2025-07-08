@@ -38,8 +38,10 @@ I am a Software Engineer from Serbia with over three years of experience in soft
 
 [![My Skills](https://skillicons.dev/icons?i=maven,gradle,git,docker,kubernetes)](https://skillicons.dev)
 
+<!--
 ## :chart_with_upwards_trend: My Stats :
 
 <p float="left">
 <img height="200em" width="420em" src="https://leetcard.jacoblin.cool/grindneverstop?ext=heatmap" />
 </p>
+-->
